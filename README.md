@@ -16,7 +16,6 @@
 
 ## 🛠️ Stack e Ferramentas (Base Técnica)
 [![Python](https://img.shields.io/badge/-Python-020114?style=for-the-badge&logo=python)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-Javascript-020114?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/-SQL-020114?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![AWS](https://img.shields.io/badge/-AWS-020114?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
 [![Linux](https://img.shields.io/badge/-Linux-020114?style=for-the-badge&logo=linux)](https://www.linux.org/)
