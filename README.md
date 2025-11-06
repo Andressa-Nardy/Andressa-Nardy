@@ -3,10 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andressa-nardy/)
 [![GitHub](https://img.shields.io/badge/-Projetos-020114?style=for-the-badge&logo=github)](https://github.com/dessanardy)
 
-<div align="center">
-  <img src="#LINK_PARA_IMAGEM_DE_BANNER_AQUI" alt="Tech Banner" width="100%">
-</div>
-
 ## 🔍 Sobre Mim
 - **Estudante de Sistemas de Informação** na **Universidade de São Paulo (USP)** e **Técnica em Desenvolvimento de Sistemas**.
 - Meu perfil é uma combinação de **Visão Analítica** e **Liderança**, com experiência prática em Gestão de Pessoas, Metodologias Ágeis e Suporte Técnico.
